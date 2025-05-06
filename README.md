@@ -23,20 +23,6 @@ If you're building something epic, I’m your dev! 💥
 
 ---
 
-## 🏆 Epic Quests
-- **Rentaspace (2025)**: Led booking & payments microservices using NestJS & Stripe. Rocked zero-downtime deploys!  
-- **Fitscheck (2025)**: Built blazing-fast React Native apps + web frontend with Next.js. Deployed on AWS EKS with K8s.  
-- **Polyglot Pro**: AI-powered text processor with no backend. 100% free to host? Yep. Mind blown. 🤯  
-
----
-
-## 🎉 Achievements
-- 🥇 **HNG Internships (2025)**: Crushed Frontend, Backend & DevOps tracks. Triple threat, baby!  
-- 🎓 **Udacity Full-Stack Bootcamp (2024)**: Finished with flair and fire  
-- 💰 **Cost Slayer**: Cut AWS spend by 22% using spot instances & container tricks  
-
----
-
 ## 😂 Fun Bits
 - I debug code in my sleep 💤  
 - Built a mortgage calculator so slick, it *almost* paid my rent (not really, but it was fire) 🏠  
